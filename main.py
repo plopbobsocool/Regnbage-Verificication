@@ -4,7 +4,7 @@ from discord import app_commands
 from keep_alive import keep_alive  # Import keep_alive function
 
 # Replace these variables with your bot's information and your server settings
-TOKEN = 'MTMzMTQwMTMzNzIyOTAxNzE3OQ.GyYnNp.pJgojKmwHH42sqPhtUXkNXMznbUS1YN0WAesWI'  # Replace with your bot token
+TOKEN = 'MTMzMTQwMTMzNzIyOTAxNzE3OQ.GW4bB_.q8U83LZYEVyiZ_fF9Y3XVjqiBdMsgZVqjHJIaQ'  # Replace with your bot token
 GUILD_ID = 1330642510351171616  # Replace with your guild/server ID
 REGNBAGE_ROLE_ID = 1299054694697533483  # Replace with the role ID for "Regnbage"
 REGISTRATION_CHANNEL_ID = 1331565396980924477  # Replace with the ID of the registration channel
